@@ -1,0 +1,6 @@
+C:\Users\Aura Valentina\Desktop\TaskMaster\backend\publicado\backend.exe
+C:\Users\Aura Valentina\Desktop\TaskMaster\backend\publicado\backend.dll
+C:\Users\Aura Valentina\Desktop\TaskMaster\backend\publicado\backend.deps.json
+C:\Users\Aura Valentina\Desktop\TaskMaster\backend\publicado\backend.runtimeconfig.json
+C:\Users\Aura Valentina\Desktop\TaskMaster\backend\publicado\backend.pdb
+C:\Users\Aura Valentina\Desktop\TaskMaster\backend\publicado\Newtonsoft.Json.dll

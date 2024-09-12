@@ -1,0 +1,15 @@
+C:\Users\Aura Valentina\Desktop\TaskMaster\backend\bin\Debug\net8.0\backend.exe
+C:\Users\Aura Valentina\Desktop\TaskMaster\backend\bin\Debug\net8.0\backend.deps.json
+C:\Users\Aura Valentina\Desktop\TaskMaster\backend\bin\Debug\net8.0\backend.runtimeconfig.json
+C:\Users\Aura Valentina\Desktop\TaskMaster\backend\bin\Debug\net8.0\backend.dll
+C:\Users\Aura Valentina\Desktop\TaskMaster\backend\bin\Debug\net8.0\backend.pdb
+C:\Users\Aura Valentina\Desktop\TaskMaster\backend\obj\Debug\net8.0\backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aura Valentina\Desktop\TaskMaster\backend\obj\Debug\net8.0\backend.AssemblyInfoInputs.cache
+C:\Users\Aura Valentina\Desktop\TaskMaster\backend\obj\Debug\net8.0\backend.AssemblyInfo.cs
+C:\Users\Aura Valentina\Desktop\TaskMaster\backend\obj\Debug\net8.0\backend.csproj.CoreCompileInputs.cache
+C:\Users\Aura Valentina\Desktop\TaskMaster\backend\obj\Debug\net8.0\backend.sourcelink.json
+C:\Users\Aura Valentina\Desktop\TaskMaster\backend\obj\Debug\net8.0\backend.dll
+C:\Users\Aura Valentina\Desktop\TaskMaster\backend\obj\Debug\net8.0\refint\backend.dll
+C:\Users\Aura Valentina\Desktop\TaskMaster\backend\obj\Debug\net8.0\backend.pdb
+C:\Users\Aura Valentina\Desktop\TaskMaster\backend\obj\Debug\net8.0\backend.genruntimeconfig.cache
+C:\Users\Aura Valentina\Desktop\TaskMaster\backend\obj\Debug\net8.0\ref\backend.dll
