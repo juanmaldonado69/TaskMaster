@@ -25,6 +25,7 @@ Esta configuración permite un desarrollo modular y escalable, aunque el grado d
 Integración en la Nube con LocalStack
 
 2. Diseño de Arquitectura
+
 •	Diagrama de Arquitectura:
 o	Componentes principales: Frontend, Backend, Base de Datos, y LocalStack para servicios simulados.
 •	Elección de Tecnologías:
@@ -35,7 +36,9 @@ o	Servicios Simulados en la Nube: LocalStack para emular servicios de AWS como S
 •	Escalabilidad y Seguridad:
 o	Escalabilidad: Diseño de microservicios y uso de contenedores Docker.
 o	Seguridad: Implementación de autenticación y cifrado de datos.
+
 3. Integración en la Nube con LocalStack
+
 •	Servicios Simulados:
 o	LocalStack: Utilizado para simular servicios de AWS localmente, incluyendo:
 	Amazon S3: Para almacenamiento de archivos.
@@ -50,7 +53,9 @@ o	Pruebas: Estrategias para probar la integración con los servicios simulados e
 •	Beneficios y Resultados:
 o	Ahorro de Costos: Evitar costos asociados con el uso real de servicios en la nube durante el desarrollo.
 o	Flexibilidad: Capacidad de probar y desarrollar en un entorno controlado y local.
+
 4. Prácticas de DevOps
+
 •	Pipeline de CI/CD:
 o	Herramientas: Uso de Azure DevOps para la automatización del proceso de integración y despliegue.
 o	Flujo de Trabajo: Detalles sobre cómo se integran las pruebas con LocalStack en el pipeline de CI/CD.
@@ -59,7 +64,9 @@ o	LocalStack y Monitoreo: Explicar cómo se gestionan los logs y el monitoreo cu
 o	Aplicación de Insights: Uso de herramientas como Azure Application Insights para el monitoreo en entornos de producción.
 •	Automatización de Tareas:
 o	Pruebas Automatizadas: Cómo las pruebas automatizadas se benefician de la integración con LocalStack.
+
 5. Desarrollo de Backend con .NET Core
+
 •	Arquitectura y Tecnologías:
 o	Framework: .NET Core para APIs RESTful.
 o	Estructura de Proyecto: Uso de MVC y patrones de repositorio.
@@ -70,7 +77,9 @@ o	Migraciones: Gestión del esquema de base de datos.
 o	API para gestión de tareas.
 o	Autenticación y autorización con ASP.NET Identity.
 o	Integración con servicios simulados de AWS para almacenamiento y notificaciones.
+
 6. Desarrollo de Frontend
+   
 •	Diseño y Tecnologías:
 o	React.js: Desarrollo de la interfaz de usuario.
 o	State Management: Uso de Redux para gestión del estado.
@@ -80,7 +89,9 @@ o	Componentes Reutilizables: Desarrollo de componentes para mejorar la eficienci
 •	Experiencia del Usuario:
 o	UI/UX: Diseño enfocado en la experiencia del usuario.
 o	Pruebas de Usabilidad: Identificación y solución de problemas de experiencia del usuario.
+
 7. Conclusión
+
 •	Resultados Alcanzados:
 o	Mejoras en la colaboración y gestión de tareas.
 o	Eficiencia en el desarrollo gracias a LocalStack.
